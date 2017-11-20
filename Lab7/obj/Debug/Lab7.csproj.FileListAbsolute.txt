@@ -1,0 +1,9 @@
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.exe.config
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.exe
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\bin\Debug\Lab7.pdb
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.exe
+c:\users\tim.mahan\documents\visual studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.pdb
+C:\Users\tim.mahan\Documents\Visual Studio 2012\Projects\Lab7\Lab7\obj\Debug\Lab7.Lab7.resources

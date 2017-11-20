@@ -1,0 +1,11 @@
+Create and test an application that solves the following problem: The Whippet Bus Company charges prices for tickets based on distance traveled, as shown in the accompanying table.
+
+Whippet Bus Co. Ticket Pricing
+Distance (miles)	Ticket Price ($)
+0 - 99	25.00
+100 - 299	40.00
+300 - 499	55.00
+500 and farther	70.00
+
+Write a program that allows a user to enter a trip distance. The output is the ticket price. The distance should be entered as an integer value.
+The design of the application's interface is up to you. You must use parallel arrays and range matching, as in the class example from the PowerPoint presentation from Chapter 7.
